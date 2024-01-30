@@ -3,8 +3,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=opablorodrigo&color=yellow"></p>
 
 
-🔭 Hoje, trabalho como **Técnico de TI** em uma universidade de Manaus, chamada **Universidade Nilton Lins** e estou em transição de carreira para área de desenvolvimento.<br>
-🌱 Estou estudando *front-end* com foco de aprendizado no **Javascript**.<br><br>
+🔭 Hoje, trabalho como **Analista de Suporte** em uma empresa com foco em streaming, chamada **Netshow.me** e estou em transição de carreira para área de desenvolvimento.<br>
+🌱 Estou estudando *front-end* com foco de aprendizado no **Javascript**<br><br> e suas ferramentas, aumentando o leque de soluções.
 🎈 Busco adquirir conhecimento em: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <br><br>
 💼 Ferramentas de estudo: Visual Studio Code, Youtube, Figma...
 
